@@ -34,7 +34,7 @@ public class Main {
 		// Slime（スライム）, Oak（オーク）, Dragon（ドラゴン）クラスの各インスタンスを生成
 		Slime slime = new Slime("キングスライム", "体当たり");
 		Oak oak = new Oak("オークキング", "槍");
-		Dragon dragon = new Dragon("紅龍", "炎");
+		Dragon dragon = new Dragon("紅龍", "炎1");
 
 		// モンスターグループのリストを空で生成
 		List<Monster> monsters = new ArrayList<>();
